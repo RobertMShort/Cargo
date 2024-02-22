@@ -24,3 +24,5 @@ Quit game by exiting via window or press Escape key
 <img width="980" alt="Screenshot 2024-02-22 at 12 20 50 PM" src="https://github.com/RobertMShort/Cargo/assets/134110968/d994c341-21cd-414a-9aac-d370674eb421">
 
 <img width="996" alt="Screenshot 2024-02-22 at 12 21 48 PM" src="https://github.com/RobertMShort/Cargo/assets/134110968/0f51ab4e-fdb0-43b2-88f7-8e863a53424e">
+
+<img width="993" alt="Screenshot 2024-02-22 at 12 31 55 PM" src="https://github.com/RobertMShort/Cargo/assets/134110968/78eac0c0-d7e6-4b17-bffb-caae695cafa9">
