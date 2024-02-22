@@ -1,7 +1,7 @@
 # Cargo
 C++/SDL Game
 
-Simple game made with C++/SDL2.
+Simple game made with C++/SDL2.</br>
 Work in progress...
 
 Game objective:
